@@ -1,0 +1,123 @@
+prismarine_shard {
+GEMSTONE_DRILL_1, tools/drills/ruby_drill_model_tx_15
+GEMSTONE_DRILL_2, tools/drills/gemstone_drill_model_lt_522
+GEMSTONE_DRILL_3, tools/drills/topaz_drill_kgr_12
+GEMSTONE_DRILL_4, tools/drills/jasper_drill_model_x
+TITANIUM_DRILL_1, tools/drills/titanium_drill_dr_x355
+TITANIUM_DRILL_2, tools/drills/titanium_drill_dr_x455
+TITANIUM_DRILL_3, tools/drills/titanium_drill_dr_x555
+TITANIUM_DRILL_4, tools/drills/titanium_drill_dr_x655
+MITHRIL_DRILL_1, tools/drills/mithril_drill_sx_226
+MITHRIL_DRILL_2, tools/drills/mithril_drill_sx_326
+DIVAN_DRILL, tools/drills/divan_drill
+}
+
+fishing_rod {
+AUGER_ROD, tools/rods/auger_rod, handheld_rod
+CARNIVAL_FISHING_ROD , tools/rods/carnival_fishing_rod, handheld_rod
+CHALLENGE_ROD, tools/rods/challenge_rod, handheld_rod
+CHAMP_ROD, tools/rods/champ_rod, handheld_rod
+FARMER_ROD, tools/rods/farmer_rod, handheld_rod
+HELLFIRE_ROD, tools/rods/hellfire_rod, handheld_rod
+ICE_ROD, tools/rods/ice_rod, handheld_rod
+INFERNO_ROD, tools/rods/inferno_rod, handheld_rod
+LEGEND_ROD, tools/rods/legend_rod, handheld_rod
+MAGMA_ROD, tools/rods/magma_rod, handheld_rod
+PHANTOM_ROD, tools/rods/phantom_rod, handheld_rod
+PRISMARINE_ROD, tools/rods/prismarine_rod, handheld_rod
+ROD_OF_THE_SEA, tools/rods/rod_of_the_sea, handheld_rod
+SPEEDSTER_ROD, tools/rods/speedster_rod, handheld_rod
+SPONGE_ROD, tools/rods/sponge_rod, handheld_rod
+STARTER_LAVA_ROD, tools/rods/starter_lava_rod, handheld_rod
+THE_SHREDDER, tools/rods/the_shredder, handheld_rod
+WINTER_ROD, tools/rods/winter_rod, handheld_rod
+YETI_ROD, tools/rods/yeti_rod, handheld_rod
+GRAPPLING_HOOK, tools/other/grappling_hook, handheld_rod
+}
+
+golden_axe {
+TREECAPITATOR_AXE, tools/axes/treecapitator
+COCO_CHOPPER, tools/axes/coco_chopper
+PUMPKIN_DICER, tools/axes/pumpkin_dicer
+}
+
+diamond_axe {
+MELON_DICER, tools/axes/melon_dicer
+}
+
+diamond_hoe {
+THEORETICAL_HOE_WARTS_3, tools/hoes/nether_wart_hoe_3
+THEORETICAL_HOE_CANE_3, tools/hoes/sugar_cane_hoe_3
+THEORETICAL_HOE_POTATO_3, tools/hoes/potato_hoe_3
+THEORETICAL_HOE_CARROT_3, tools/hoes/carrot_hoe_3
+THEORETICAL_HOE_WHEAT_3, tools/hoes/wheat_hoe_3
+ADVANCED_GARDENING_HOE, tools/hoes/advanced_gardening_hoe
+HOE_OF_GREATER_TILLING, tools/hoes/hoe_of_greater_tilling
+HOE_OF_GREATEST_TILLING, tools/hoes/hoe_of_greatest_tilling
+}
+
+golden_hoe {
+CACTUS_KNIFE, tools/hoes/cactus_knife
+FUNGI_CUTTER, tools/hoes/fungi_cutter
+BINGHOE, tools/hoes/binghoe
+}
+
+iron_hoe {
+BASIC_GARDENING_HOE, tools/hoes/basic_gardening_hoe
+GARDEN_SCYTHE, tools/hoes/garden_scythe
+THEORETICAL_HOE_WARTS_2, tools/hoes/nether_wart_hoe_2
+THEORETICAL_HOE_CANE_2, tools/hoes/sugar_cane_hoe_2
+THEORETICAL_HOE_POTATO_2, tools/hoes/potato_hoe_2
+THEORETICAL_HOE_CARROT_2, tools/hoes/carrot_hoe_2
+THEORETICAL_HOE_WHEAT_2, tools/hoes/wheat_hoe_2
+DWARVEN_METAL_DETECTOR, tools/other/metal_detector
+THORNLEAF_SCYTHE, tools/other/thornleaf_scythe
+}
+
+stone_hoe {
+THEORETICAL_HOE_WARTS_1, tools/hoes/nether_wart_hoe_1
+THEORETICAL_HOE_CANE_1, tools/hoes/sugar_cane_hoe_1
+THEORETICAL_HOE_POTATO_1, tools/hoes/potato_hoe_1
+THEORETICAL_HOE_CARROT_1, tools/hoes/carrot_hoe_1
+THEORETICAL_HOE_WHEAT_1, tools/hoes/wheat_hoe_1
+HOE_OF_GREAT_TILLING, tools/hoes/hoe_of_great_tilling
+ROOKIE_HOE, tools/hoes/rookie_hoe
+}
+
+wooden_hoe {
+SAM_SCYTHE, tools/hoes/sam_scythe
+}
+
+armor_stand {
+CHISEL, tools/other/chisel
+REINFORCED_CHISEL, tools/other/reinforced_chisel
+GLACITE_CHISEL , tools/other/glacite_chisel
+PERFECT_CHISEL , tools/other/perfect_chisel
+}
+
+wooden_pickaxe {
+JUNGLE_PICKAXE , tools/pickaxes/jungle_pickaxe
+}
+
+lead {
+ABYSMAL_LASSO, tools/galatea/abysmal_lasso
+VINERIP_LASSO, tools/galatea/vinerip_lasso
+ENTANGLER_LASSO, tools/galatea/entangler_lasso
+EVERSTRETCH_LASSO, tools/galatea/everstretch_lasso
+}
+
+golden_axe {
+VENATOR_GENESIS, tools/galatea/genesis
+SILVA_DOMINUS, tools/galatea/dominus
+CURSUS_FERAE, tools/galatea/cursus
+APEX_PRAEDATOR, tools/galatea/apex
+NEX_TITANUM, tools/galatea/nex
+}
+
+water_bucket {
+MAGICAL_WATER_BUCKET, tools/other/magical_water_bucket
+}
+
+wooden_shovel {
+ANCESTRAL_SPADE, tools/other/ancestral_spade
+}

@@ -1,0 +1,87 @@
+diamond_sword {
+ASPECT_OF_THE_END, weapons/swords/aspect_of_the_end
+}
+
+golden_axe {
+}
+
+golden_sword {
+DAEDALUS_AXE, weapons/swords/daedalus_blade
+}
+
+iron_sword {
+HYPERION, weapons/swords/hyperion
+GIANTS_SWORD, weapons/longswords/giants_sword
+CRYPT_DREADLORD_SWORD, weapons/swords/crypt_dreadlord_sword
+ZOMBIE_KNIGHT_SWORD, weapons/swords/zombie_knight_sword
+ZOMBIE_SOLDIER_CUTLASS, weapons/swords/zombie_soldier_cutlass
+}
+
+feather {
+HOLLOW_WAND, weapons/staffs/hollow_wand, handheld_staff
+}
+
+bow {
+DRAGON_SHORTBOW, weapons/bows/dragon_shortbow
+CRYPT_BOW, weapons/bows/crypt_bow
+MOSQUITO_BOW, weapons/bows/mosquito_bow
+DEATH_BOW, weapons/bows/death_bow
+DECENT_BOW, weapons/bows/decent_bow
+END_STONE_BOW, weapons/bows/end_stone_bow
+ENDER_BOW, weapons/bows/ender_bow
+EXPLOSIVE_BOW, weapons/bows/explosive_bow
+HURRICANE_BOW, weapons/bows/hurricane_bow
+MACHINE_GUN_BOW, weapons/bows/machine_gun_bow
+MAGMA_BOW, weapons/bows/magma_bow
+PRISMARINE_BOW, weapons/bows/prismarine_bow
+RUNAANS_BOW, weapons/bows/runaans_bow
+SAVANA_BOW, weapons/bows/savana_bow
+SCORPION_BOW, weapons/bows/scorpion_bow
+SLIME_BOW, weapons/bows/slime_bow
+SNIPER_BOW, weapons/bows/sniper_bow
+SPIRIT_BOW, weapons/bows/spirit_bow
+STINGER_BOW, weapons/bows/stinger_bow
+SULPHUR_BOW, weapons/bows/sulphur_bow
+SUPER_UNDEAD_BOW, weapons/bows/super_undead_bow
+TERMINATOR, weapons/bows/terminator
+UNDEAD_BOW, weapons/bows/undead_bow
+WITHER_BOW, weapons/bows/wither_bow
+ARTISANAL_SHORTBOW, weapons/bows/artisanal_shortbow
+}
+
+diamond_hoe {
+REAPER_SCYTHE, items/swords/reaper_scythe
+}
+
+blaze_rod {
+FIRE_VEIL_WAND, items/staffs/fire_veil_wand, handheld_staff
+BONZO_STAFF, items/staffs/bonzo_staff, handheld_staff
+STARRED_BONZO_STAFF, items/staffs/bonzo_staff, handheld_staff
+}
+
+diamond_sword {
+VOIDEDGE_KATANA, items/swords/voidedge_katana
+}
+
+stick {
+WAND_OF_ATONEMENT, items/staffs/wand_of_atonement, handheld_staff
+}
+
+golden_sword {
+FLORID_ZOMBIE_SWORD, items/swords/florid_zombie_sword
+VOIDEDGE_KATANA, items/swords/voidedge_katana_ability
+}
+
+dead_bush {
+GREAT_SPOOK_STAFF, items/staffs/great_spook_staff, handheld_staff
+}
+
+wooden_sword {
+GREAT_SPOOK_SWORD, items/swords/great_spook_sword
+}
+
+stone_sword {
+WITHER_CLOAK, items/swords/wither_cloak
+EARTH_SHARD, items/swords/earth_shard
+CONJURING_SWORD, item/swords/conjuring_sword
+}

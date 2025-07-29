@@ -1,0 +1,23 @@
+player_head {
+dark_purple:Refined Mithril, items/mining/refined_mithril
+dark_purple:Refined Umber, items/mining/refined_umber
+dark_purple:Refined Tungsten, items/mining/refined_tungsten
+dark_purple:Refined Diamond, items/mining/refined_diamond
+gold:Refined Titanium, items/mining/refined_titanium
+blue:Gemstone Mixture, items/mining/gemstone_mixture
+dark_purple:Glacite Amalgamation, items/mining/glacite_amalgamation
+blue:Drill Motor, items/mining/drill_motor
+blue:Fuel Canister, items/mining/fuel_canister
+blue:Golden Plate, items/mining/golden_plate
+blue:Mithril Plate, items/mining/mithril_plate
+blue:Suspicious Scrap, items/mining/suspicious_scrap
+dark_purple:Flawless Peridot Gemstone, items/mining/gemstones/peridot/flawless_peridot_gem
+}
+
+stick {
+BEJEWELED_HANDLE, items/mining/bejeweled_handle
+}
+
+light_blue_dye {
+blue:Refined Mineral, items/mining/refined_mineral
+}

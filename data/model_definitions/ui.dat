@@ -1,0 +1,110 @@
+diamond_sword {
+green:Your Skills, ui/menu/skills, generated
+}
+
+nether_star {
+SKYBLOCK_MENU, ui/menu/skyblock_menu, generated
+green:Search Settings, ui/menu/search, generated
+}
+
+redstone_torch {
+green:Settings, ui/menu/settings, generated
+green:Bazaar Settings, ui/menu/settings, generated
+green:Information, ui/bank/info, generated
+}
+
+block dropper {
+green:Withdraw Coins, ui/bank/withdraw_coins, generated
+green:Everything in the account, ui/bank/wholepurse, generated
+green:Half the account, ui/bank/halfpurse, generated
+green:Withdraw 20%, ui/bank/20purse, generated
+}
+
+chest {
+green:Deposit Coins, ui/bank/deposit_coins, generated
+green:Your whole purse, ui/bank/wholepurse, generated
+green:Half your purse, ui/bank/halfpurse, generated
+}
+
+filled_map {
+green:Recent transactions, ui/bank/transactions, generated
+}
+
+arrow {
+green:Go Back, ui/menu/back, generated
+yellow:Back, ui/menu/back, generated
+green:Next Page, ui/menu/next, generated
+green:Previous Page, ui/menu/prev, generated
+green:Scroll Down, ui/menu/down, generated
+green:Scroll Up, ui/menu/up, generated
+}
+
+oak_sign {
+green:Specific amount, ui/bank/amount, generated
+green:Search, ui/menu/search, generated
+green:Search Recipes, ui/menu/search, generated
+}
+
+barrier {
+red:Close, ui/menu/close, generated
+}
+
+clock {
+green:Calendar and Events, ui/menu/calendar, generated
+green:Calendar, ui/menu/calendar, generated
+}
+
+cookie {
+green:Calender and Events, ui/menu/bcookie, generated
+gold:Booster Cookie, ui/menu/bcookie, generated
+}
+
+block crafting_table {
+green:Crafting Table, ui/menu/crafting, generated
+}
+
+writable_book {
+green:Quest Log, ui/menu/quest, generated
+}
+
+book {
+green:Recipe Book, ui/menu/recipe, generated
+}
+
+name_tag {
+green:Profile Management, ui/menu/prof, generated
+}
+
+painting {
+green:Collections, ui/menu/collection, generated
+}
+
+bone {
+green:Pets, ui/menu/pets, generated
+}
+
+leather_chestplate {
+green:Wardrobe, ui/menu/wardrobe, generated
+}
+
+hopper {
+green:Sort, ui/menu/sort, generated
+green:Sell Item, ui/menu/sell, generated
+}
+
+diamond {
+green:Pet Score Rewards, ui/menu/pet_score, generated
+}
+
+emerald {
+green:Trades, ui/menu/trades, generated
+}
+
+block emerald_block {
+green:Refresh, ui/menu/refresh, generated
+}
+
+block redstone_block {
+green:Start a New Queue, ui/menu/start_queue, generated
+green:Find a Party, ui/menu/party, generated
+}

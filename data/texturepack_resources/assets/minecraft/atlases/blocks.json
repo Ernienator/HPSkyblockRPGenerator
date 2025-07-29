@@ -1,0 +1,9 @@
+{
+  "sources": [
+    {
+      "prefix": "skyblock/",
+      "source": "skyblock",
+      "type": "directory"
+    }
+  ]
+}

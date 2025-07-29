@@ -1,0 +1,17 @@
+ {
+  "pack": {
+    "pack_format": 55,
+    "supported_formats": {"min_inclusive": 55, "max_inclusive": 55},
+    "description": [
+      {"text":"S","color":"#E79C1B","bold":true},
+      {"text":"k","color":"#DE8516","bold":true},
+      {"text":"y","color":"#D37013","bold":true},
+      {"text":"b","color":"#C25F13","bold":true},
+      {"text":"l","color":"#B85112","bold":true},
+      {"text":"o","color":"#AD4311","bold":true},
+      {"text":"c","color":"#A13510","bold":true},
+      {"text":"k","color":"#8F270F","bold":true},
+      {"text":"\nv0.0.1 ","color":"dark_green","bold":false},
+      {"text":"for 1.21.5\n","color":"gray","bold":false}]
+  }
+}

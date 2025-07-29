@@ -1,0 +1,79 @@
+prismarine_shard {
+ATTRIBUTE_SHARD, items/attribute_shard
+}
+
+stick {
+STRETCHING_STICKS, items/galatea/stretching_stick
+}
+
+lime_dye {
+TOXIC_ARROW_POISON, items/arrow_poison
+}
+
+wooden_axe {
+SERIOUSLY_DAMAGED_AXE, items/galatea/seriously_damaged_axe
+FIG_AXE, items/galatea/fig_hew
+}
+
+stone_axe {
+FIGSTONE_AXE, items/galatea/figstone_axe
+}
+
+prismarine_crystals {
+ECTOPLASM, items/spooky/ectoplasm
+}
+
+leather {
+WEREWOLF_SKIN, items/spooky/werewolf_skin
+}
+
+pumpkin_seeds {
+PUMPKIN_GUTS, items/spooky/pumpkin_guts
+}
+
+purple_dye {
+GLOSSY_GEMSTONE, items/fiesta/glossy_gemstone
+}
+
+light_blue_dye {
+REFINED_MINERAL, items/fiesta/refined_mineral
+}
+
+name_tag {
+JACOBS_TICKET, items/contest/jacob_ticket
+CARNIVAL_TICKET, items/contest/carnival_ticket
+}
+
+feather {
+GRIFFIN_FEATHER, items/mythological/griffin_feather
+}
+
+experience_bottle {
+GRAND_EXP_BOTTLE, items/grand_bottle
+TITANIC_EXP_BOTTLE, items/titanic_bottle
+COLOSSAL_EXP_BOTTLE, items/colossal_xp
+}
+
+ender_pearl {
+SPIRIT_LEAP, items/dungeons/spirit_leap, giant_ui
+}
+
+minecart {
+SKYMART_VACUUM, items/garden/skymart_vacuum
+}
+
+hopper_minecart {
+SKYMART_TURBO_VACUUM, items/garden/skymart_turbo_vacuum
+}
+
+furnace_minecart {
+SKYMART_HYPER_VACUUM, items/garden/skymart_hyper_vacuum
+}
+
+chest_minecart {
+INFINI_VACUUM, items/garden/infini_vacuum
+}
+
+tnt_minecart {
+INFINI_VACUUM_HOOVERIUS, items/garden/infini_vacuum_hooverius
+}

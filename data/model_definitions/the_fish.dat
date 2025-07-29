@@ -1,0 +1,49 @@
+tropical_fish {
+CENTURY_THE_FISH, items/the_fish/century_the_fish
+PARTY_THE_FISH, items/the_fish/party_the_fish
+OOPS_THE_FISH, items/the_fish/oops_the_fish
+}
+
+cod {
+SHRIMP_THE_FISH, items/the_fish/shrimp_the_fish
+ROCK_THE_FISH, items/the_fish/rock_the_fish
+STEW_THE_FISH, items/the_fish/stew_the_fish
+CLUCK_THE_FISH, items/the_fish/cluck_the_fish
+EON_THE_FISH, items/the_fish/eon_the_fish
+}
+
+cooked_cod {
+BAT_THE_FISH, items/the_fish/bat_the_fish
+CHILL_THE_FISH, items/the_fish/chill_the_fish
+}
+
+pufferfish {
+EXPERIMENT_THE_FISH, items/the_fish/experiment_the_fish
+GIFT_THE_FISH, items/the_fish/gift_the_fish
+}
+
+salmon {
+SPOOK_THE_FISH, items/the_fish/spook_the_fish
+ZOOP_THE_FISH, items/the_fish/zoop_the_fish
+NOPE_THE_FISH, items/the_fish/nope_the_fish
+HERRING_THE_FISH, items/the_fish/herring_the_fish
+GABAGOOL_THE_FISH, items/the_fish/gabagool_the_fish
+}
+
+cooked_salmon {
+EGG_THE_FISH, items/the_fish/egg_the_fish
+SNOWFLAKE_THE_FISH, items/the_fish/snowflake_the_fish
+FOSSIL_THE_FISH, items/the_fish/fossil_the_fish
+DIAMOND_THE_FISH, items/the_fish/diamond_the_fish
+DUST_THE_FISH, items/the_fish/dust_the_fish
+}
+
+player_head {
+red:Candy the Fish, items/the_fish/candy_the_fish
+red:Priceless the Fish, items/the_fish/priceless_the_fish
+red:Worm the Fish, items/the_fish/worm_the_fish
+red:Maxor the Fish, items/the_fish/maxor_the_fish
+red:Rabbit the Fish, items/the_fish/rabbit_the_fish
+red:Storm the Fish, items/the_fish/storm_the_fish
+red:Goldor the Fish, items/the_fish/goldor_the_fish
+}

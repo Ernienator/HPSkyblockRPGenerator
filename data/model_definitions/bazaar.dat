@@ -1,0 +1,54 @@
+book {
+green:Manage Orders, ui/bazaar/manage_orders
+}
+
+cauldron {
+aqua:Sell Sacks Now, ui/bazaar/sack_outgoing
+}
+
+chest {
+green:Sell Inventory Now, ui/bazaar/open_chest_outgoing_green
+}
+
+iron_ore {
+green:Direct Mode, ui/bazaar/computer_text
+}
+
+gold_ore {
+green:Advanced Mode, ui/bazaar/computer_graph
+}
+
+paper {
+green:View Graphs, ui/bazaar/view_graph
+gold:Create Sell Offer, ui/bazaar/open_chest_outgoing_yellow
+}
+
+hopper {
+gold:Sell Instantly, ui/bazaar/open_chest_outgoing_green
+green:Claim All Coins, ui/bazaar/claim_coins
+}
+
+golden_horse_armor {
+green:Buy Instantly, ui/bazaar/open_chest_incoming_green
+gold:5% of Spread, ui/bazaar/bid_gold
+}
+
+filled_map {
+green:Create Buy Order, ui/bazaar/open_chest_incoming_yellow
+}
+
+gold_nugget {
+gold:Top Order +0.1, ui/bazaar/bid_dark_green
+}
+
+oak_sign {
+gold:Custom Price, ui/bazaar/computer_text
+}
+
+barrier {
+red:Cancel Buy Order, ui/bazaar/close
+}
+
+map {
+gold:Create Sell Offer, ui/bazaar/open_chest_outgoing_yellow
+}
