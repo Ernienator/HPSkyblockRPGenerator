@@ -4,6 +4,7 @@
 
 ---
 This Tool can generate with low effort a complete Texturepack for Hypixel Skyblock.
+> To Run this Program use python main.py
 
 ---
 
