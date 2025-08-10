@@ -77,3 +77,7 @@ INFINI_VACUUM, items/garden/infini_vacuum
 tnt_minecart {
 INFINI_VACUUM_HOOVERIUS, items/garden/infini_vacuum_hooverius
 }
+
+charcoal {
+FOUL_FLESH, items/slayer/revenant/foul_flesh
+}

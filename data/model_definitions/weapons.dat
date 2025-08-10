@@ -1,5 +1,6 @@
 diamond_sword {
 ASPECT_OF_THE_END, weapons/swords/aspect_of_the_end
+ASPECT_OF_THE_DRAGON, weapons/swords/aspect_of_the_dragon
 }
 
 golden_axe {
@@ -7,14 +8,35 @@ golden_axe {
 
 golden_sword {
 DAEDALUS_AXE, weapons/swords/daedalus_blade
+STARRED_DAEDALUS_AXE, weapons/swords/daedalus_blade
+ATOMSPLIT_KATANA, items/swords/atomsplit_katana_ability
+SILK_EDGE_SWORD, weapons/swords/silk_edge
+VORPAL_KATANA, items/swords/vorpal_katana_ability
+MIDAS_SWORD, weapons/swords/midas_sword
+STARRED_MIDAS_SWORD, weapons/swords/midas_sword_50m
+RAGNAROCK_AXE, weapons/swords/ragnarock
+HEARTFIRE_DAGGER, items/swords/pyrochaos_dagger_auric
 }
 
 iron_sword {
 HYPERION, weapons/swords/hyperion
+ASTRAEA, weapons/swords/astrea
+SCYLLA, weapons/swords/scylla
+VALKYRIE, weapons/swords/valkyrie
 GIANTS_SWORD, weapons/longswords/giants_sword
 CRYPT_DREADLORD_SWORD, weapons/swords/crypt_dreadlord_sword
 ZOMBIE_KNIGHT_SWORD, weapons/swords/zombie_knight_sword
 ZOMBIE_SOLDIER_CUTLASS, weapons/swords/zombie_soldier_cutlass
+RECLUSE_FANG, weapons/swords/recluse_fang
+VOIDWALKER_KATANA, weapons/swords/voidwalker_katana
+YETI_SWORD, weapons/swords/yeti_sword
+STARRED_YETI_SWORD, weapons/swords/yeti_sword
+SPIDER_SWORD, weapons/swords/spider_sword
+ZOMBIE_SWORD, weapons/swords/zombie_sword
+NECRON_SWORD, weapons/swords/necron_blade
+HEARTMAW_DAGGER, items/swords/deathripper_dagger_spirit
+FLAMING_SWORD, items/swords/flaming_sword
+SQUIRE_SWORD, items/swords/squire_sword
 }
 
 feather {
@@ -47,10 +69,15 @@ TERMINATOR, weapons/bows/terminator
 UNDEAD_BOW, weapons/bows/undead_bow
 WITHER_BOW, weapons/bows/wither_bow
 ARTISANAL_SHORTBOW, weapons/bows/artisanal_shortbow
+JUJU_SHORTBOW, weapons/bows/juju_shortbow
 }
 
 diamond_hoe {
 REAPER_SCYTHE, items/swords/reaper_scythe
+}
+
+diamond_shovel {
+ASPECT_OF_THE_VOID, weapons/staffs/aspect_of_the_void
 }
 
 blaze_rod {
@@ -61,6 +88,9 @@ STARRED_BONZO_STAFF, items/staffs/bonzo_staff, handheld_staff
 
 diamond_sword {
 VOIDEDGE_KATANA, items/swords/voidedge_katana
+VORPAL_KATANA, items/swords/vorpal_katana
+ATOMSPLIT_KATANA, items/swords/atomsplit_katana
+HEARTMAW_DAGGER, items/swords/deathripper_dagger_crystal
 }
 
 stick {
@@ -78,10 +108,14 @@ GREAT_SPOOK_STAFF, items/staffs/great_spook_staff, handheld_staff
 
 wooden_sword {
 GREAT_SPOOK_SWORD, items/swords/great_spook_sword
+ASPECT_OF_THE_JERRY, items/swords/aspect_of_the_jerry
+ASPECT_OF_THE_JERRY_SIGNATURE, items/swords/aspect_of_the_jerry
 }
 
 stone_sword {
 WITHER_CLOAK, items/swords/wither_cloak
 EARTH_SHARD, items/swords/earth_shard
 CONJURING_SWORD, item/swords/conjuring_sword
+DARK_CLAYMORE, item/swords/dark_claymore
+HEARTFIRE_DAGGER, items/swords/pyrochaos_dagger_ashen
 }
